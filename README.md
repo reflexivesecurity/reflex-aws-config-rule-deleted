@@ -1,5 +1,5 @@
 # reflex-aws-config-rule-deleted
-TODO: Write a brief description of your rule and what it does.
+A Reflex rule for detecting when AWS Config Rules get deleted.
 
 ## Usage
 To use this rule either add it to your `reflex.yaml` configuration file:  
@@ -22,4 +22,4 @@ module "reflex-aws-config-rule-deleted" {
 ```
 
 ## License
-This Reflex rule is made available under the MPL 2.0 license. For more information view the [LICENSE](https://github.com/cloudmitigator/reflex-aws-config-rule-deleted/blob/master/LICENSE) 
+This Reflex rule is made available under the MPL 2.0 license. For more information view the [LICENSE](https://github.com/cloudmitigator/reflex-aws-config-rule-deleted/blob/master/LICENSE)
