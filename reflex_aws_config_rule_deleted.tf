@@ -1,5 +1,5 @@
 module "reflex_aws_config_rule_deleted" {
-  source           = "git::https://github.com/cloudmitigator/reflex-engine.git//modules/cwe_lambda?ref=v0.5.4"
+  source           = "git::https://github.com/cloudmitigator/reflex-engine.git//modules/cwe_lambda?ref=v0.5.7"
   rule_name        = "ConfigRuleDeleted"
   rule_description = "Detects the deletion of AWS Config Rules"
 
